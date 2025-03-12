@@ -1,0 +1,17 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+gas_snapshot_check = false
+allow_internal_expect_revert = true
+
+optimizer = true
+optimizer_runs = 99_999_999
+solc_version = '0.8.28'
+bytecode_hash = 'none'
+evm_version = 'shanghai'
+
+[profile.default.optimizer_details]
+constantOptimizer = true
+yul = false

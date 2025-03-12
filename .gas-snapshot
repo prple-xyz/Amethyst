@@ -1,0 +1,8 @@
+AmethystGasTest:test_gasCost_mine_first_A0x01_M0x00() (gas: 57215)
+AmethystGasTest:test_gasCost_mine_first_A0x01_M0x01() (gas: 102456)
+AmethystGasTest:test_gasCost_mine_first_A0x10_M0x00() (gas: 81344)
+AmethystGasTest:test_gasCost_mine_first_A0x10_M0x10() (gas: 573184)
+AmethystGasTest:test_gasCost_mine_second_A0x01_M0x00() (gas: 35311)
+AmethystGasTest:test_gasCost_mine_second_A0x01_M0x01() (gas: 95112)
+AmethystGasTest:test_gasCost_mine_second_A0x10_M0x00() (gas: 59440)
+AmethystGasTest:test_gasCost_mine_second_A0x10_M0x10() (gas: 566031)
